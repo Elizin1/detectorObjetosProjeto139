@@ -1,0 +1,18 @@
+.heading{
+    font-size: 40px;
+    margin:0px;
+    width: 100%;
+}
+
+#status{
+    font-size: 24px;
+}
+
+#imgObjeto{
+    font-size: 24px;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 10px;
+}
